@@ -1,0 +1,33 @@
+Sites of Interest:
+
+yoox.com
+ebay.com
+bitchute.com
+yahoo.com
+wordpress.com
+weather.com
+poshmark.com
+pixlr.com
+pirateship.com
+venmo.com
+
+Finding Selectors (2 sites):
+
+yoox.com & ebay.com
+
+yoox features:
+-search
+-select category
+-select different departments
+-search by: (different drop downs)
+-select an item, size
+-goto checkout process
+
+ebay features:
+-search bar
+-search for specific item
+-select item
+-place bid on item
+-watch item
+-add item to cart 
+
